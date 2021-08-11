@@ -9,7 +9,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 ### Qualification Round
 
 * ✓ [A. Reversort][qual1] (`reversort`)
-* ✗ [B. Moons and Umbrellas][qual2] (`moons-and-umbrellas`)
+* ✓ [B. Moons and Umbrellas][qual2] (`moons-and-umbrellas`)
 * ✗ [C. Reversort Engineering][qual3] (`reversort-engineering`)
 * ✗ [D. Median Sort][qual4] (`median-sort`)
 * ✗ [E. Cheating Detection][qual5] (`cheating-detection`)
@@ -17,3 +17,7 @@ The following is the list of the problems solved. Each problem identifier is spe
 
 [1]: https://codingcompetitions.withgoogle.com/codejam
 [qual1]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d0a5c
+[qual2]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1145
+[qual3]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d12d7
+[qual4]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1284
+[qual5]: https://codingcompetitions.withgoogle.com/codejam/round/000000000043580a/00000000006d1155
